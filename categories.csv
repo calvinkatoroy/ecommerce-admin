@@ -1,0 +1,59 @@
+_id,name,description,published,createdAt,updatedAt,slug
+632aca754d87ff2494210c2c,Meat,Meat,true,2024-04-05T04:46:19.621Z,2024-04-05T04:46:19.621Z,meat
+632aca6d4d87ff2494210c24,Fish & Meat,Fish & Meat,true,2024-04-05T04:46:19.621Z,2024-04-05T04:46:19.621Z,fish--meat
+632aca454d87ff2494210c00,Fresh Fruits,Fresh Fruits,true,2024-04-05T04:46:19.621Z,2024-04-05T04:46:19.621Z,fresh-fruits
+632aca3d4d87ff2494210bf8,Dry Fruits,Dry Fruits,true,2024-04-05T04:46:19.621Z,2024-04-05T04:46:19.621Z,dry-fruits
+632aca374d87ff2494210bf0,Fresh Vegetable,Fresh Vegetable,true,2024-04-05T04:46:19.621Z,2024-04-05T04:46:19.621Z,fresh-vegetable
+632aca2b4d87ff2494210be8,Fruits & Vegetable,Fruits & Vegetable,true,2024-04-05T04:46:19.621Z,2024-04-05T04:46:19.621Z,fruits--vegetable
+632aca184d87ff2494210bd4,Flour,Flour,true,2024-04-05T04:46:19.620Z,2024-04-05T04:46:19.620Z,flour
+632aca144d87ff2494210bcc,Oil,Oil,true,2024-04-05T04:46:19.620Z,2024-04-05T04:46:19.620Z,oil
+632aca0b4d87ff2494210bc4,Cooking Essentials,Cooking Essentials,true,2024-04-05T04:46:19.620Z,2024-04-05T04:46:19.620Z,cooking-essentials
+632ac9f64d87ff2494210bb0,Biscuits,Biscuits,true,2024-04-05T04:46:19.620Z,2024-04-05T04:46:19.620Z,biscuits
+632ac9ef4d87ff2494210ba8,Cakes,Cakes,true,2024-04-05T04:46:19.620Z,2024-04-05T04:46:19.620Z,cakes
+632ac9e94d87ff2494210ba0,Biscuits & Cakes,Biscuits & Cakes,true,2024-04-05T04:46:19.620Z,2024-04-05T04:46:19.620Z,biscuits--cakes
+632ac9c24d87ff2494210b84,Water Filter,Water Filter,true,2024-04-05T04:46:19.620Z,2024-04-05T04:46:19.620Z,water-filter
+632ac9ba4d87ff2494210b7c,Cleaning Tools,Cleaning Tools,true,2024-04-05T04:46:19.620Z,2024-04-05T04:46:19.620Z,cleaning-tools
+632ac9b24d87ff2494210b74,Pest Control,Pest Control,true,2024-04-05T04:46:19.620Z,2024-04-05T04:46:19.620Z,pest-control
+632ac99d4d87ff2494210b64,Air Freshener,Air Freshener,true,2024-04-05T04:46:19.619Z,2024-04-05T04:46:19.619Z,air-freshener
+632ac9984d87ff2494210b5c,Laundry,Laundry,true,2024-04-05T04:46:19.619Z,2024-04-05T04:46:19.619Z,laundry
+632ac9934d87ff2494210b54,Cleaner,Cleaner,true,2024-04-05T04:46:19.619Z,2024-04-05T04:46:19.619Z,cleaner
+632ac9864d87ff2494210b49,Household Tools,Household Tools,true,2024-04-05T04:46:19.619Z,2024-04-05T04:46:19.619Z,household-tools
+632ab45b4d87ff2494210b21,Dog Care,Dog Care,true,2024-04-05T04:46:19.619Z,2024-04-05T04:46:19.619Z,dog-care
+632ab4524d87ff2494210b19,Cat Care,Cat Care,true,2024-04-05T04:46:19.619Z,2024-04-05T04:46:19.619Z,cat-care
+632ab4434d87ff2494210b0e,Pet Care,Pet Care,true,2024-04-05T04:46:19.619Z,2024-04-05T04:46:19.619Z,pet-care
+632ab3044d87ff2494210ae8,Bath,Bath,true,2024-04-05T04:46:19.619Z,2024-04-05T04:46:19.619Z,bath
+632ab2fd4d87ff2494210ae0,Cosmetics,Cosmetics,true,2024-04-05T04:46:19.619Z,2024-04-05T04:46:19.619Z,cosmetics
+632ab2f84d87ff2494210ad8,Oral Care,Oral Care,true,2024-04-05T04:46:19.619Z,2024-04-05T04:46:19.619Z,oral-care
+632ab2f04d87ff2494210ad0,Skin Care,Skin Care,true,2024-04-05T04:46:19.619Z,2024-04-05T04:46:19.619Z,skin-care
+632ab2df4d87ff2494210ac8,Body Care,Body Care,true,2024-04-05T04:46:19.619Z,2024-04-05T04:46:19.619Z,body-care
+632ab2d54d87ff2494210ac0,Shaving Needs,Shaving Needs,true,2024-04-05T04:46:19.619Z,2024-04-05T04:46:19.619Z,shaving-needs
+632ab2c34d87ff2494210ab2,Women,Women,true,2024-04-05T04:46:19.619Z,2024-04-05T04:46:19.619Z,women
+632ab2b64d87ff2494210aa7,Men,Men,true,2024-04-05T04:46:19.619Z,2024-04-05T04:46:19.619Z,men
+632ab2864d87ff2494210a8a,Beauty & Healths,Beauty & Healths,true,2024-04-05T04:46:19.618Z,2024-04-05T04:46:19.618Z,beauty--healths
+632ab1e04d87ff2494210a6a,Jam & Jelly,Jam & Jelly,true,2024-04-05T04:46:19.618Z,2024-04-05T04:46:19.618Z,jam--jelly
+632ab16c4d87ff2494210a44,Butter & Ghee,Butter & Ghee,true,2024-04-05T04:46:19.618Z,2024-04-05T04:46:19.618Z,butter--ghee
+632ab1644d87ff2494210a3c,Ice Cream,Ice Cream,true,2024-04-05T04:46:19.618Z,2024-04-05T04:46:19.618Z,ice-cream
+632ab1584d87ff2494210a31,Dairy,Dairy,true,2024-04-05T04:46:19.618Z,2024-04-05T04:46:19.618Z,dairy
+632ab14a4d87ff2494210a29,Milk & Dairy,Milk & Dairy,true,2024-04-05T04:46:19.618Z,2024-04-05T04:46:19.618Z,milk--dairy
+632ab0664d87ff24942109ef,Tea,Tea,true,2024-04-05T04:46:19.618Z,2024-04-05T04:46:19.618Z,tea
+632ab0604d87ff24942109e7,Water,Water,true,2024-04-05T04:46:19.618Z,2024-04-05T04:46:19.618Z,water
+632ab0564d87ff24942109df,Juice,Juice,true,2024-04-05T04:46:19.618Z,2024-04-05T04:46:19.618Z,juice
+632ab0504d87ff24942109d7,Coffee,Coffee,true,2024-04-05T04:46:19.618Z,2024-04-05T04:46:19.618Z,coffee
+632ab0454d87ff24942109cc,Energy Drinks,Energy Drinks,true,2024-04-05T04:46:19.618Z,2024-04-05T04:46:19.618Z,energy-drinks
+632ab0334d87ff24942109c1,Drinks,Drinks,true,2024-04-05T04:46:19.618Z,2024-04-05T04:46:19.618Z,drinks
+632aae7b4d87ff2494210967,Bread,Bread,true,2024-04-05T04:46:19.617Z,2024-04-05T04:46:19.617Z,bread
+632aae624d87ff2494210951,Cereal,Cereal,true,2024-04-05T04:46:19.617Z,2024-04-05T04:46:19.617Z,cereal
+632aae414d87ff2494210945,Breakfast,Breakfast,true,2024-04-05T04:46:19.617Z,2024-04-05T04:46:19.617Z,breakfast
+62e4ebb90ea79023fc11d847,Beef,This is Beef Category,true,2024-04-05T04:46:19.617Z,2024-04-05T04:46:19.617Z,beef
+62d2bbe62e63b40520194f21,Orange,This is orange category,true,2024-04-05T04:46:19.617Z,2024-04-05T04:46:19.617Z,orange
+62d2bbd22e63b40520194f1b,Apple,This is the apple category,true,2024-04-05T04:46:19.617Z,2024-04-05T04:46:19.617Z,apple
+62d03a542d28e904b20e2342,Rui,This is Rui category,true,2024-04-05T04:46:19.617Z,2024-04-05T04:46:19.617Z,rui
+62d03a312d28e904b20e233c,Tuna,This is tuna category,true,2024-04-05T04:46:19.617Z,2024-04-05T04:46:19.617Z,tuna
+62cfad52484d89068aa7a81f,Pickles & Condiments,This is Pickles & Condiments category,true,2024-04-05T04:46:19.617Z,2024-04-05T04:46:19.617Z,pickles--condiments
+62cfad3d484d89068aa7a819,Sauces,This is Sauces category,true,2024-04-05T04:46:19.617Z,2024-04-05T04:46:19.617Z,sauces
+62cfab4b484d89068aa7a7ff,Canned Food,This is Canned Food category,true,2024-04-05T04:46:19.617Z,2024-04-05T04:46:19.617Z,canned-food
+62cfab39484d89068aa7a7fb,Chips & Nuts,This is Chips & Nuts category,true,2024-04-05T04:46:19.617Z,2024-04-05T04:46:19.617Z,chips--nuts
+62cfab28484d89068aa7a7f5,Chocolate,This is Chocolate category,true,2024-04-05T04:46:19.616Z,2024-04-05T04:46:19.616Z,chocolate
+62cc07b8d511b304aecdfbfa,Baby Accessories,This is baby accessories,true,2024-04-05T04:46:19.616Z,2024-04-05T04:46:19.616Z,baby-accessories
+62cc0791d511b304aecdfbf2,Baby Food,This is baby food category,true,2024-04-05T04:46:19.616Z,2024-04-05T04:46:19.616Z,baby-food
+62c827b5a427b63741da9175,Home,This is Home Category,true,2024-04-05T04:46:19.616Z,2024-04-05T04:46:19.616Z,home

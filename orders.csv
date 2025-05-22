@@ -1,0 +1,98 @@
+invoiceNo,orderTime,customerName,method,amount,status,id
+12654,2024-03-25T00:29:55.304Z,Debbie Dietrich,card,905.17,delivered,5edb
+16708,2024-03-25T11:16:04.375Z,Heidi Feest,card,2011.22,delivered,ead8
+17723,2024-03-25T17:33:08.189Z,Leroy Hartmann,credit,9331.28,processing,e04e
+11090,2024-03-25T15:01:02.864Z,Lillie Christiansen,credit,3640.93,cancel,6d96
+17632,2024-03-25T15:45:34.707Z,Mr. Herman Daniel,credit,9671.12,cancel,d82c
+10778,2024-03-25T11:03:48.213Z,Gabriel Beatty,credit,8026.2,pending,3659
+16048,2024-03-25T13:45:29.637Z,Cynthia O'Keefe,credit,3095.92,delivered,1727
+14701,2024-03-25T06:55:44.256Z,Christine Jaskolski,card,4783.08,pending,9b15
+19010,2024-03-25T07:54:06.241Z,Tammy Herzog,credit,7453.84,cancel,00a4
+15227,2024-03-25T11:14:24.147Z,Vincent Prohaska,cash,5315.91,pending,3ca8
+17102,2024-03-25T08:17:50.560Z,Lila Beer,card,3805.71,pending,8478
+14277,2024-03-25T19:14:54.040Z,Mitchell Pfeffer,cash,4097.91,cancel,5324
+16005,2024-03-25T21:58:11.584Z,Terry Hyatt,cash,1425.46,pending,1589
+10351,2024-03-25T17:48:23.648Z,Beulah Fritsch,credit,8566.41,cancel,736d
+19911,2024-03-25T11:06:00.632Z,Leland Christiansen,credit,336.24,delivered,8864
+18129,2024-03-25T13:40:22.746Z,Dr. Erik Flatley,credit,3847.23,delivered,11d4
+14139,2024-03-25T01:13:09.933Z,Lori Lind III,credit,896.88,pending,e1ec
+17541,2024-03-25T00:19:12.336Z,Dr. Arthur Howe,credit,5751.98,cancel,c51d
+13001,2024-03-25T00:46:54.264Z,Duane Howell,cash,6644.06,cancel,bd78
+13587,2024-03-25T21:30:56.318Z,Noel Labadie,credit,402.44,pending,db82
+19356,2024-03-25T05:47:23.896Z,Meredith Zemlak,credit,7130.67,pending,1018
+16300,2024-03-25T10:34:22.138Z,Lawrence Kovacek,cash,6785.68,cancel,9cb4
+14986,2024-03-25T00:06:30.347Z,Courtney Bernier,card,8717.54,processing,d05b
+10129,2024-03-25T22:17:51.777Z,Jesus Hoeger,credit,1055.35,pending,0a40
+18088,2024-03-25T06:45:28.551Z,Ramona Adams II,card,8258.21,processing,0099
+10572,2024-03-25T00:37:45.699Z,Estelle Rempel,cash,4566.92,pending,6e79
+15484,2024-03-25T00:56:40.946Z,Denise Cole,cash,7026.65,cancel,8b2a
+18370,2024-03-25T03:42:50.220Z,Kelley Feil,cash,317.84,processing,5f33
+10748,2024-03-25T17:54:19.532Z,Dr. Brad Weber,credit,7965.77,cancel,9123
+14993,2024-03-25T00:31:56.459Z,Erica Beahan Sr.,credit,9764.53,delivered,665e
+17648,2024-03-25T00:14:55.216Z,Terry Altenwerth,credit,1145.26,cancel,61cf
+15955,2024-03-25T16:14:40.789Z,Marc Little V,cash,807.75,delivered,e31c
+17148,2024-03-25T08:46:01.073Z,Enrique Powlowski,credit,6575.14,cancel,71f9
+14797,2024-03-25T05:52:48.064Z,Lynne Cartwright,credit,8608.53,processing,ec32
+16821,2024-03-25T02:07:36.307Z,Felix Mosciski,card,6890.3,delivered,125f
+10064,2024-03-25T07:48:38.930Z,Bobby Gorczany,card,5112.8,delivered,2233
+10255,2024-03-25T09:12:31.458Z,Miss Sylvia Bosco,cash,2157.89,pending,c8a3
+13816,2024-03-25T11:38:03.767Z,Mr. Felix O'Kon,card,3828.87,pending,5fbc
+13215,2024-03-25T02:33:19.562Z,Dr. Laurence Gerlach,cash,6985.67,pending,fae9
+13473,2024-03-25T01:38:20.271Z,Julie Kerluke,card,7955.36,pending,c82a
+18664,2024-03-25T02:18:32.755Z,Roberto Prosacco DDS,card,5743.56,processing,f8c7
+10884,2024-03-25T15:08:24.432Z,Peter Kutch,card,8401.8,processing,af24
+16619,2024-03-25T13:29:45.098Z,Guadalupe Leannon III,cash,3099.15,pending,d949
+17101,2024-03-25T06:50:59.001Z,Mattie Lubowitz,credit,5199.92,cancel,1ec7
+13603,2024-03-24T23:09:05.170Z,Stephanie Rutherford,cash,3302.59,delivered,9895
+18368,2024-03-25T05:03:00.028Z,Jim Bashirian IV,card,8899.64,processing,a956
+14468,2024-03-25T22:28:19.828Z,Melissa Mertz,cash,3223.81,processing,371b
+17568,2024-03-25T13:40:51.506Z,Geoffrey Davis Sr.,cash,7244.24,cancel,350e
+14530,2024-03-25T10:21:44.740Z,Horace Miller,card,6296.8,cancel,2873
+15121,2024-03-25T17:36:13.169Z,Regina Weimann,card,2664.63,pending,2bae
+13544,2024-03-25T05:39:56.238Z,Mr. Carlos Mayert,card,5178.71,delivered,9b81
+17622,2024-03-25T05:10:09.137Z,Leland Tillman,credit,237.26,cancel,329f
+14315,2024-03-25T04:16:48.240Z,Zachary Gleason,credit,3486.3,cancel,d52d
+11011,2024-03-25T02:25:08.356Z,Lela Graham,card,7554.21,delivered,b277
+14359,2024-03-25T06:32:11.823Z,Emily Howe,card,2860.97,cancel,acee
+15827,2024-03-25T00:17:48.962Z,Christian Cassin,credit,4720.6,processing,c9e7
+11499,2024-03-25T14:44:45.352Z,Patricia Schuppe,card,1090.52,cancel,4e07
+17606,2024-03-25T21:37:27.546Z,Jose Jenkins,cash,6897.54,delivered,7ea2
+16762,2024-03-24T23:17:32.186Z,Alexander Thiel,card,2279.49,processing,8e8c
+17677,2024-03-25T20:28:26.233Z,Dr. Vincent Gutkowski,cash,2615.54,cancel,a4ac
+12973,2024-03-25T16:32:41.488Z,Jeannie Zulauf II,cash,3682.59,cancel,b2f5
+17747,2024-03-25T10:08:09.032Z,Margie Padberg,card,2764.01,delivered,cec7
+13816,2024-03-25T07:23:48.154Z,Dwight Hoeger,credit,4747.49,pending,9939
+13446,2024-03-25T18:50:46.943Z,Rex Kihn,card,1622.53,processing,07cb
+10484,2024-03-24T23:04:36.025Z,Julian Leffler,cash,3173.25,pending,70e3
+10442,2024-03-25T07:54:15.206Z,Rodney Kovacek,cash,5209.17,pending,4983
+11022,2024-03-25T12:57:14.496Z,Rebecca Ratke,cash,7159.59,delivered,81ea
+17936,2024-03-25T05:51:03.600Z,Dr. Antonio Lang,credit,3867.41,processing,146a
+16236,2024-03-25T16:37:26.823Z,Nina Olson,card,5916.12,processing,4b42
+18512,2024-03-25T18:43:38.701Z,Eleanor Marvin,cash,3423.73,cancel,5479
+17384,2024-03-25T17:35:44.050Z,Travis McDermott,card,6533.39,cancel,0f11
+13940,2024-03-25T09:14:25.595Z,Evan Swaniawski,card,9294.35,cancel,b214
+10334,2024-03-25T20:21:47.526Z,Dr. Neal Thompson,credit,2430.39,processing,1014
+11463,2024-03-25T04:04:32.835Z,Dr. Julio Gerlach,card,2733.3,processing,3fdd
+14514,2024-03-24T23:19:17.990Z,Claudia Gleason,credit,9649.68,processing,2467
+14912,2024-03-25T14:50:40.478Z,Elsa Macejkovic,cash,6925.39,pending,42a2
+17082,2024-03-25T02:43:49.448Z,Dr. Kristy McClure II,card,8459.43,delivered,4648
+15069,2024-03-25T10:37:01.971Z,Nicole Schamberger,card,1264.52,delivered,31d1
+18066,2024-03-25T14:50:09.682Z,Austin Heaney,cash,9133.36,cancel,7ae6
+14690,2024-03-25T22:24:38.859Z,Darin Mertz II,card,6279.81,pending,e8dd
+12367,2024-03-25T01:39:59.727Z,Dexter Heller,credit,6685.04,pending,84b1
+18464,2024-03-25T07:51:50.478Z,Jasmine Donnelly,cash,9844.22,cancel,e7bf
+17602,2024-03-25T20:09:02.616Z,Jennie Rath,credit,3223.33,pending,0d9a
+14941,2024-03-25T20:04:03.917Z,Cora Wiza,card,6684.64,processing,aa0c
+13762,2024-03-25T00:54:44.340Z,Elijah Franecki,credit,3016.81,cancel,c4ad
+15924,2024-03-25T03:24:20.936Z,Mr. Dan Bins,cash,4760.76,pending,ed26
+14679,2024-03-25T07:27:39.278Z,Leo Kirlin,credit,3428.08,pending,d5bf
+10624,2024-03-25T09:27:32.824Z,Tara Davis,credit,4791.82,delivered,097d
+19627,2024-03-25T14:21:06.821Z,Dr. Brad Rempel,card,6716.8,processing,1fe0
+18099,2024-03-25T15:16:18.974Z,Fredrick Ziemann,credit,7169.57,cancel,3f99
+10823,2024-03-25T14:52:11.594Z,Jackie Pfeffer,card,295.38,delivered,91c3
+14860,2024-03-25T02:06:34.986Z,Ian Kovacek,card,6212.3,pending,fd3a
+15123,2024-03-25T19:55:17.962Z,Pete Price MD,card,5157.48,delivered,c437
+16383,2024-03-25T16:21:18.788Z,Dr. Miguel Beahan,credit,336.46,processing,0925
+12761,2024-03-25T22:45:34.913Z,Christian Bechtelar,cash,7322.58,pending,08cd
+14322,2024-03-25T20:07:21.923Z,Rodolfo Kihn,cash,8334.42,delivered,569b
+10220,2024-03-25T00:46:24.547Z,Daniel Ratke,credit,567.59,processing,2273
